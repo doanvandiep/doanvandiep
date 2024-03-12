@@ -12,8 +12,6 @@
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Meme
-<img src="https://toigingiuvedep.vn/wp-content/uploads/2022/04/tao-anh-meme-cheems.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=doanvandiep&icon=0&color=0)](https://visitcount.itsvg.in)
