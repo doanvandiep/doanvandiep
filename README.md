@@ -10,12 +10,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=doanvandiep&theme=tokyonight&hide_border=false)<br/>
 
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=doanvandiep&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=doanvandiep&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=doanvandiep&label=Profile%20Views&color=2&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
